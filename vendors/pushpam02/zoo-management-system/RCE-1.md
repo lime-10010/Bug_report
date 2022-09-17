@@ -1,6 +1,6 @@
 # Zoo Management System v1.0 by pushpam02 has arbitrary code execution (RCE)
 
-BUG_Author: Line
+BUG_Author: Lime
 
 Admind login account: admin@mail.com/Password@123
 
