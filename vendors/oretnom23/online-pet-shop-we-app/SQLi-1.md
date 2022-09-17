@@ -1,6 +1,6 @@
 # Online Pet Shop We App v1.0 by oretnom23 has SQL injection
 
-BUG_Author: Line
+BUG_Author: Lime
 
 Login account: admin/admin123 (Super Admin account)
 
